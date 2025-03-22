@@ -2,19 +2,17 @@
 
 I’m a Master’s student in IT at RMIT, passionate about building innovative projects that blend hardware and software. Currently, I’m working on a web-integrated Arduino project, where users can control an Arduino through a web interface—automating real-world actions with just a click!
 
-I’m also diving into Solidity and React, expanding my skills in blockchain development and modern web technologies.
+I’m also diving into Solidity and React, expanding my skills in blockchain development and modern web technologies. Always open to collaboration and learning new things! Check out my repos and feel free to connect.
 
-🔧 Current Project: Web-Controlled Arduino System
+## 🔧 Current Project: Web-Controlled Arduino System
 	•	🌐 Interactive Website – Users send commands through the web UI
 	•	🔌 Arduino Integration – Executes actions based on user inputs
 	•	💡 Automation Focus – Real-time control, scheduled tasks, and IoT possibilities
 
-⚡ Interests & Hobbies
+## ⚡ Interests & Hobbies
 	•	Tech – Web Dev, Blockchain, IoT
 	•	Rock Climbing – Indoors & outdoors
 	•	Fitness & Gaming
-
-💻 Always open to collaboration and learning new things! Check out my repos and feel free to connect.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joventung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joventung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joventung88@gmail.com) 
