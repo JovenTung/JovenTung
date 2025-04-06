@@ -5,9 +5,9 @@ I’m a Master’s student in IT at RMIT, passionate about building innovative p
 I’m also diving into Solidity and React, expanding my skills in blockchain development and modern web technologies. Always open to collaboration and learning new things! Check out my repos and feel free to connect.
 
 ## 🔧 Current Project: Web-Controlled Arduino System
-	•	🌐 Interactive Website – Users send commands through the web UI
-	•	🔌 Arduino Integration – Executes actions based on user inputs
-	•	💡 Automation Focus – Real-time control, scheduled tasks, and IoT possibilities
+🌐 Interactive Website – Users send commands through the web UI
+🔌 Arduino Integration – Executes actions based on user inputs
+💡 Automation Focus – Real-time control, scheduled tasks, and IoT possibilities
 
 ## ⚡ Interests & Hobbies
 	•	Tech – Web Dev, Blockchain, IoT
